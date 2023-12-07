@@ -1,0 +1,87 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  font-family: 'Staatliches', sans-serif;
+  padding: 20px;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: 'Hedvig Letters Serif', serif;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+.deck {
+  font-size: 20px;
+  font-family: 'Hedvig Letters Serif', serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-weight:100;
+}
+
+.byline {
+  font-size: 18px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.publish-date {
+  font-size: 15px;
+  color: #666666;
+  margin: 0;
+  padding: 0;
+  font-family:'Libre Franklin', sans-serif;
+}
+
+.body-text {
+  font-family: 'Hedvig Letters Serif', serif;
+  margin: auto;
+}
+
+.center-image {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+.caption {
+  color:  #666666;
+  font-size: 13px;
+  margin-top: 5px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.footer {
+    background-color: #d3d7fafc;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 30px;
+    padding: 20px; 
+    text-align: center;
+    width: 100%;
+    margin: 0; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+a {
+  color: black;
+  border-bottom: 1px;
+}
+
+a:hover {
+  color: #666666;
+  text-decoration: none; 
+}
+
+.graphic {
+  padding: 20px;
+}
